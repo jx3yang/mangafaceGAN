@@ -1,0 +1,6 @@
+.vscode/
+manga-env
+lbpcascade_animeface.xml
+output/
+scrapy_logs.txt
+**/__pycache__/*
